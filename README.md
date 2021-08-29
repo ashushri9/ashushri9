@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ashish Shrivastav
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking for someone to teach me how to do code
+- 📫 How to reach me ping me on Ashushri9@gmail.com
